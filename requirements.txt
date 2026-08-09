@@ -1,0 +1,16 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+oracledb
+python-multipart
+pillow
+tqdm
+scikit-learn
+openpyxl
+reportlab
